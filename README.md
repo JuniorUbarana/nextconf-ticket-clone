@@ -2,8 +2,6 @@
 
 In this project we need to make a clone of the Nextjs conf ticket:
 
-![Preview](./images/challenge.gif)
-
 ## Challenging list
 
 - implement the gradient borders.
